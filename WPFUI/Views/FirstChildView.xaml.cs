@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace WPFUI.Views
 {
     /// <summary>
-    /// Interaction logic for FirstChilsView.xaml
+    /// Interaction logic for FirstChildView.xaml
     /// </summary>
     public partial class FirstChildView : UserControl
     {
